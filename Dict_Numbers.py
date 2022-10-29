@@ -1,4 +1,4 @@
-# Convert numbers to words
+# Convert numbers to words - check
 number = input("Phone: ")
 
 dic = {
