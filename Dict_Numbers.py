@@ -1,4 +1,4 @@
-
+# Convert numbers to words
 number = input("Phone: ")
 
 dic = {
@@ -17,4 +17,4 @@ dic = {
 for num in number:
     print(dic.get(num, "!"), end=" ")
 
-print()
+print()  # Newline
